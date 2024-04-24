@@ -9725,3 +9725,10 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+
+.video{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
